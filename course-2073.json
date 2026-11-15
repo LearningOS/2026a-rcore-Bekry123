@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "courseId": 2073,
+  "repository": "LearningOS/2026a-rcore-Bekry123",
+  "user": "Bekry123",
+  "totalScore": 500,
+  "chapters": {
+    "ch3": {
+      "points": "7/7",
+      "score": 100,
+      "commit": "d82c481765ff547887dc3a3a9671c95bc5e1b8cf"
+    }
+  },
+  "score": 100,
+  "upload": {
+    "status": "pending",
+    "runId": "43676766597",
+    "runAttempt": "1"
+  }
+}
