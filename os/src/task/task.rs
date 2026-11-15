@@ -3,6 +3,7 @@
 use super::TaskContext;
 
 /// The task control block (TCB) of a task.
+/// 任务切换时TCB不会丢失记录
 #[derive(Copy, Clone)]
 pub struct TaskControlBlock {
     /// The task status in it's lifecycle
